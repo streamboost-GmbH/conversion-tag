@@ -1,5 +1,5 @@
 homepage: "https://streamboost.de"
 documentation: "http://docs.streamboost.de/"
 versions:
-  - sha: 7ce884c025f7b93b3dc5f377ff3d6cb8236d58af
+  - sha: d90a330178ff456e2089d72f083d39967c7f118d
     changeNotes: Initial release.
